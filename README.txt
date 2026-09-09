@@ -10,10 +10,3 @@ Included:
 - Contact numbers: +263 77 164 9497 and +263 116 49497
 
 Open index.html in a modern browser. No server is required for the basic experience.
-
-
-Updated contact details:
-- +263 77 164 9497
-- 0711649497
-- +263 71 770 6441
-- Room J 7
